@@ -156,8 +156,6 @@ export default function Index() {
               <span className="text-gradient">СУШИ</span>
               <br />
               <span style={{ color: "#F5F0EA" }}>И ПИЦЦА</span>
-              <br />
-              <span style={{ color: "#C8BFB0", fontSize: "0.65em" }}>С ДОСТАВКОЙ</span>
             </h1>
             <p className="text-lg mb-8 max-w-md leading-relaxed" style={{ color: "#A09080" }}>
               Свежие роллы, сочная пицца и вкусные закуски прямо к вашей двери. Готовим с любовью каждый день.
